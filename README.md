@@ -17,6 +17,6 @@ This repository contains some domain lists as a supplement to the [DLC](https://
 
 ## License
 
-Copyright &copy; 2024 [Xi Xu](https://xi-xu.me). All rights reserved.
+Copyright &copy; [Xi Xu](https://xi-xu.me). All rights reserved.
 
 Licensed under the [GPL-3.0](./LICENSE) license.  
