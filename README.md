@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains some domain lists as a supplement to the [DLC](https://github.com/v2fly/domain-list-community), specifically for [RFM](https://github.com/xixu-me/RFM).
+This repository contains organized domain lists as a supplement to the [DLC](https://github.com/v2fly/domain-list-community), specifically for [RFM](https://github.com/xixu-me/RFM).
 
 ## Disclaimer
 
