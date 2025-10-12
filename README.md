@@ -17,6 +17,6 @@ This repository contains organized domain lists as a supplement to the [DLC](htt
 
 ## License
 
-Copyright &copy; [Xi Xu](https://xi-xu.me). All rights reserved.
+Copyright &copy; [Xi Xu](https://xi-xu.me)
 
 Licensed under the [GPL-3.0](./LICENSE) license.  
